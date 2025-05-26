@@ -11,7 +11,7 @@ A simple and fun Tic Tac Toe game made with **HTML**, **CSS**, and **JavaScript*
 ## 📸 Screenshots
 
 ![Game ](./screenshots/home.png)
-![Win Game](./screebshots/win.png)
+![Win Game](./screenshots/win.png)
 
 
 ---
