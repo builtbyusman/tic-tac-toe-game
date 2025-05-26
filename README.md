@@ -4,13 +4,15 @@ A simple and fun Tic Tac Toe game made with **HTML**, **CSS**, and **JavaScript*
 
 ## 🔗 Live Demo
 
-[Play Now]()
+[Play Now](https://github.com/builtbyusman/tic-tac-toe-game/blob/main/index.html)
 
 ---
 
 ## 📸 Screenshots
 
-![Game Screenshot](assets/images/screenshot.png)
+![Game ](./screenshots/home.png)
+![Win Game](./screebshots/win.png)
+
 
 ---
 
